@@ -22,4 +22,4 @@ Wzorowane na niej są różne inne listy *(siedmiu) cudów świata*. Nawiązuje 
 7. [Latarnia morska na Faros] (http://cuda-swiata.pl/latarnia-morska-na-wyspie-faros "Zobacz opis Latarnii morskiej na Faros")
 
 
-[repozytorium](https://monduls.github.io/technologie)
+[repozytorium]( http://monduls.github.io/technologie)
