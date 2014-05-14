@@ -20,3 +20,6 @@ Wzorowane na niej są różne inne listy *(siedmiu) cudów świata*. Nawiązuje 
 5. [Mauzoleum w Halikarnasie] (http://cuda-swiata.pl/mauzoleum-w-halikarnasie "Zobacz opis Mauzoleum w Halikarnasie")
 6. [Kolos Rodyjski] (http://www.rodosgrecja.pl/kolos-rodyjski.html "Zobacz opis Kolosa Rodyjskiego")
 7. [Latarnia morska na Faros] (http://cuda-swiata.pl/latarnia-morska-na-wyspie-faros "Zobacz opis Latarnii morskiej na Faros")
+
+
+[repozytorium](https://github.com/monduls/technologie)
