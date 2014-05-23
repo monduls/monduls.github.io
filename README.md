@@ -1,7 +1,7 @@
 
-![wieniec1](http://i.focus.it/_controls/iFocus.Module.Content/ShowImage.aspx?img=http://media.i.focus.it/2007/09/6b0e11c7-ae20-4036-a759-6a43039af66c.JPG)
 
-![wieniec2](http://www.allthesky.com/atmosphere/big/moonaureole02mar07-b.jpg)
+
+![wieniec](http://www.allthesky.com/atmosphere/big/moonaureole02mar07-b.jpg)
 
 ![gloria](http://static.twojapogoda.pl/2011/05/108643_Image2-900x506.png)
 
