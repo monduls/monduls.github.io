@@ -1,5 +1,5 @@
 
-<h3 align="center"> ZJAWISKA OPTYCZNE
+<h3 align="center"> ZJAWISKA OPTYCZNE W ATMOSFERZE
 
 ---
 
