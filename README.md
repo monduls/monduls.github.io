@@ -1,8 +1,4 @@
 
-<h3 align="center"> ZJAWISKA OPTYCZNE W ATMOSFERZE
-
----
-
 <h3 align="center">![wieniec](http://www.allthesky.com/atmosphere/big/moonaureole02mar07-b.jpg)
 
 <h5 align="justify"> Wieniec jest zjawiskiem optycznym otaczającym tarczę Słońca lub Księżyca, widoczna przez cienką chmurę. Wieniec składa się z aureoli wewnętrznej, poza którą znajdują się jeden lub więcej barwnych pierścieni. Aurelola i pierścienie powstają w wyniku dyfrakcji światłą w kropelkach wody w chmurze. Wskutek różnego rozmieszczenia kropelek w chmurze wieniec może mieć nieregularny zarys, zmienia też kształt i zabarwienie, w miarę jak chmura przesuwa się przed Słońcem lub Księżycem Jeśli natomiast nie widać żadnych zmian, można przyjąć, że kropelki mają wyjątkowo jednakową wielkość i są równomiernie rozmieszczone. Obłoki pyłków niektórych drzew i krzewów mogą wiosną także wytwarzać to zjawisko, na przykład często obserwuje się je w lasach brzozowych i sosnowych.
